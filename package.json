@@ -1,0 +1,33 @@
+{
+  "name": "marionette-settings-api",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bob Silverberg",
+    "email": "bsilverberg@mozilla.com"
+  },
+  "devDependencies": {
+    "marionette-client": "~0.15.0",
+    "marionette-host-environment": "0.3.3",
+    "marionette-js-logger": "0.0.2",
+    "mozilla-download": "~0.2.1",
+    "mocha": "1.11.0",
+    "sinon": "1.7.2",
+    "marionette-js-runner": "~0.2.0"
+  },
+  "keywords": [
+    "firefox",
+    "firefox os",
+    "gecko",
+    "marionette",
+    "mozilla",
+    "test"
+  ],
+  "scripts": {
+    "test": "make"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla-b2g/marionette-settings-api.git"
+  }
+}
